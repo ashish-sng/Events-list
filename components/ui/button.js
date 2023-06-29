@@ -8,3 +8,5 @@ const Button = (props) => {
     </Link>
   );
 };
+
+export default Button;
